@@ -19,10 +19,17 @@ table{
     border: 0;
     width: 100%;
 }
-.Atas td img{
-    width: 400px;
+.Header{
+    background-color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.pinggir{
+    width: 120px;
 }
 .Bawah td img{
     width: 260px;
+    height: 280px;
 }
 
