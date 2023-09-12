@@ -1,0 +1,28 @@
+body{
+    background-color: #FAF1E4;
+}
+td{
+    text-align: center;
+  }
+.Atas td{
+  height: 35px;
+  font-size: large;
+}
+.Bawah td{
+  height: 280px;
+  font-size: large;
+}
+td p{
+  font-family:  'Times New Roman', Times, serif ;
+}
+table{
+    border: 0;
+    width: 100%;
+}
+.Atas td img{
+    width: 400px;
+}
+.Bawah td img{
+    width: 260px;
+}
+
