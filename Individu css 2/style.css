@@ -1,0 +1,46 @@
+.Content{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.Title{
+    font-size: 45px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    width: 30%;
+    margin-top: 100px;
+}
+
+.Line{
+    border: 5px solid yellow;
+    width: 70px;
+}
+
+.Subtitle{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-top: 50px;
+}
+
+.Text{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    width: 420px;
+}
+
+.Button{
+    border: none;
+    background-color: yellow;
+    color: black;
+    padding: 8px 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+img{
+    width: 400px;
+    height: 230px;
+    float: right;
+    margin-right: 150px;
+    margin-top: 200px;
+}
