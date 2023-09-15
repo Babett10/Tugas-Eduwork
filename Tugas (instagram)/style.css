@@ -1,0 +1,148 @@
+.Content{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+}
+
+.Image{
+    width: 52%;
+}
+
+.Image img{
+    height: 600px;
+    margin: 30px 65px;
+}
+
+.Login{
+    border: 1px solid gray;
+    width: 40%;
+    height: 430px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    margin-right: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    font-size: 14px;
+}
+
+.Logo{
+    width: 200px;
+    height: 60px;
+     margin: 30px 70px;
+}
+
+.Form{
+    display: inline-block;
+    position: relative;
+    margin: 0 20px;
+}
+
+input[type ="text"]{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 270px;
+}
+
+label {
+    position: absolute;
+    margin-top: 10px;
+    left: 3px;
+    padding: 0 5px;
+    color: gray;
+    font: inherit;
+}
+
+.ID{
+    margin-bottom: 5px;
+}
+
+.Checkbox{
+    margin-top: 10px;
+}
+
+input[type = "checkbox"]
+{
+    margin-top: 10px;
+    width: 18px;
+    height: 18px;
+    border: solid #ccc;
+}
+
+.Checkbox label{
+    margin-left: 20px;
+    color: black;
+}
+
+.Button{
+    margin-top: 15px;
+}
+
+.Button button{
+    border: none;
+    background-color: #0E9CEF;
+    color: white;
+    width: 290px;
+    height: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.Line1{
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    width: 110px;
+    float: right;
+    margin-right: 10px;;
+}
+.Line2{
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    width: 110px;
+    float: left;
+}
+
+.OR{
+    width: 30px;
+    margin: 25px 135px;
+}
+
+.FB{
+    color: #3b5998;
+    margin: 0px 70px;
+}
+
+.ForgotPass{
+    margin: 0px 90px;
+    font-size: small;
+    color: #3b5998;
+}
+
+.SignUp{
+    border: 1px solid gray;
+    width: 100%;
+    height: 50px;
+    margin: 20px auto;
+}
+
+.signUp{
+    margin: 0px 50px;
+}
+
+.signUp span{
+    color: #0E9CEF;
+    font-weight: bold;
+}
+
+.AppImage{
+    width: 100%;
+}
+
+.app{
+    width: 100%;
+}
