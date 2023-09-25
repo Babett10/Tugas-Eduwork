@@ -1,0 +1,29 @@
+body{
+    background-color: lightblue;
+}
+
+.shadow-lg{
+    background-color: white;
+    width: 35%;
+    margin-top: 15%;
+    height: 300px;
+}
+
+.content{
+    width: 80%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    margin-top: 30px;
+}
+
+.form-check{
+    margin-left: 21px;
+}
+
+.btn {
+    margin: 10px 160px ;
+}
+
+.form-control{
+    background-color: #ececec;
+}
